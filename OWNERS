@@ -11,3 +11,5 @@ approvers:
 emeritus_approvers:
   - cmurphy
   - hasheddan
+
+component: "Security Profiles Operator"
