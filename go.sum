@@ -820,7 +820,7 @@ github.com/segmentio/ksuid v1.0.4/go.mod h1:/XUiZBD3kVx5SmUOl55voK5yeAbBNNIed+2O
 github.com/shibumi/go-pathspec v1.3.0 h1:QUyMZhFo0Md5B8zV8x2tesohbb5kfbpTi9rBnKh5dkI=
 github.com/shibumi/go-pathspec v1.3.0/go.mod h1:Xutfslp817l2I1cZvgcfeMQJG5QnU2lh5tVaaMCl3jE=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
-github.com/sigstore/cosign/v2 v2.0.1 h1:cXOHbOoZF5QsjJFTWDkc8VeUvjRsEsPgWidGdp+JQBc=
+github.com/sigstore/cosign/v2 v2.0.1 h1:Ai8FIFYqICcA3gN6GcY/d25GHQPV5U4rWW2YZDf53tw=
 github.com/sigstore/cosign/v2 v2.0.1/go.mod h1:ACfZzIFVz6bk2lksikUY7H4EwqikO1+uefpIpQQhpWA=
 github.com/sigstore/fulcio v1.2.0 h1:I4H764cDbryKXkPtasUvo8bcix/7xLvkxWYWNp+JtWI=
 github.com/sigstore/fulcio v1.2.0/go.mod h1:FS7qpBvOEqs0uEh1+hJxzxtJistWN29ybLtAzFNUi0c=
